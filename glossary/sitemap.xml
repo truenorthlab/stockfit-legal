@@ -5,6 +5,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/acquisition-cost.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/active-fund.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/airdrop.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/algorithmic-trading.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/altcoin.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/alternative-exchange.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/annual-report.html</loc></url>
@@ -18,6 +19,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/base-rate-kr.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/benchmark.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/beta.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/bid-ask-spread.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/bitcoin.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/blockchain.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/bollinger-bands.html</loc></url>
@@ -68,7 +70,9 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/currency-risk.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/current-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/dead-cross.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/debt-equity-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/default.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/defensive-cyclical.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/defi.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/deflation.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/delisting.html</loc></url>
@@ -93,11 +97,14 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/duration.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/early-redemption.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/earnings-report.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/earnings-yield.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/earnings.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/ebitda.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/economic-bubble.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/effective-exchange-rate.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/ema.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/employment-data.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/engulfing.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/eps.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/equity-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/equity.html</loc></url>
@@ -112,6 +119,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/false-signal.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/fibonacci.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/fiscal-policy.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/fiscal-year.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/fixed-exchange-rate.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/fixed-variable-cost.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/floating-exchange-rate.html</loc></url>
@@ -136,6 +144,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/goodwill.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/government-bond.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/gross-profit.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/growth-value-stock.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/guidance-revision.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/halving.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/hard-fork.html</loc></url>
@@ -175,6 +184,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/kr-stock-code.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/kr-trading-session.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/krx-market-segment.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/large-small-cap.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/layer2.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/leading-index.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/leverage.html</loc></url>
@@ -185,6 +195,8 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/loss-carryforward.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/loss-cut.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/loss-offset.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/lump-sum.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/m-and-a.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/macd.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/margin-balance.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/margin-call.html</loc></url>
@@ -204,6 +216,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/municipal-bond.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/nav.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/net-assets.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/net-cash.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/net-income.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/nft.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/nikkei.html</loc></url>
@@ -218,8 +231,10 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/order-book.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/order-validity.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/ordinary-profit.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/parabolic-sar.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/payout-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/pbr.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/peg-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/pension-savings.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/per.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/pmi.html</loc></url>
@@ -234,12 +249,14 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/progressive-tax.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/prospectus.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/psr.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/psychological-line.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/pts-trading.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/pullback.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/purchasing-power.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/quantitative-easing.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/quarterly-report.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/range-market.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/rci.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/real-interest-rate.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/rebalancing.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/recession.html</loc></url>
@@ -252,6 +269,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/revenue.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/reverse-day-charge.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/reverse-split.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/risk-reward-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/roa.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/roe.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/roic.html</loc></url>
@@ -269,10 +287,12 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/shareholders-meeting.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/shares-outstanding.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/short-selling.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/short-squeeze.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/slippage.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/smart-contract.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/soft-landing.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/sovereign-risk.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/spin-off.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/spot-forward.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/spot-trading.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/spread-fx.html</loc></url>
@@ -305,10 +325,12 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/topix.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/total-assets.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/total-cost.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/total-payout-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/tracking-error.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/trade-balance.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/trading-session.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/trading-unit.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/trailing-stop.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/transaction-tax.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/trend-following.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/trend-line.html</loc></url>
@@ -325,15 +347,18 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/wallet.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/withholding-tax.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/won-weak-strong.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/yearly-high-low.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/yen-weak-strong.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/yield-curve.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/yield-to-maturity.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/en/term/yoy-growth.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/index.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/index.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/accrued-interest.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/acquisition-cost.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/active-fund.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/airdrop.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/algorithmic-trading.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/altcoin.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/alternative-exchange.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/annual-report.html</loc></url>
@@ -347,6 +372,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/base-rate-kr.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/benchmark.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/beta.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/bid-ask-spread.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/bitcoin.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/blockchain.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/bollinger-bands.html</loc></url>
@@ -397,7 +423,9 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/currency-risk.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/current-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/dead-cross.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/debt-equity-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/default.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/defensive-cyclical.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/defi.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/deflation.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/delisting.html</loc></url>
@@ -422,11 +450,14 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/duration.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/early-redemption.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/earnings-report.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/earnings-yield.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/earnings.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/ebitda.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/economic-bubble.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/effective-exchange-rate.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/ema.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/employment-data.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/engulfing.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/eps.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/equity-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/equity.html</loc></url>
@@ -441,6 +472,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/false-signal.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/fibonacci.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/fiscal-policy.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/fiscal-year.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/fixed-exchange-rate.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/fixed-variable-cost.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/floating-exchange-rate.html</loc></url>
@@ -465,6 +497,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/goodwill.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/government-bond.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/gross-profit.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/growth-value-stock.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/guidance-revision.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/halving.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/hard-fork.html</loc></url>
@@ -504,6 +537,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/kr-stock-code.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/kr-trading-session.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/krx-market-segment.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/large-small-cap.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/layer2.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/leading-index.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/leverage.html</loc></url>
@@ -514,6 +548,8 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/loss-carryforward.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/loss-cut.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/loss-offset.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/lump-sum.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/m-and-a.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/macd.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/margin-balance.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/margin-call.html</loc></url>
@@ -533,6 +569,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/municipal-bond.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/nav.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/net-assets.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/net-cash.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/net-income.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/nft.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/nikkei.html</loc></url>
@@ -547,8 +584,10 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/order-book.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/order-validity.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/ordinary-profit.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/parabolic-sar.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/payout-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/pbr.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/peg-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/pension-savings.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/per.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/pmi.html</loc></url>
@@ -563,12 +602,14 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/progressive-tax.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/prospectus.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/psr.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/psychological-line.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/pts-trading.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/pullback.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/purchasing-power.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/quantitative-easing.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/quarterly-report.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/range-market.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/rci.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/real-interest-rate.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/rebalancing.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/recession.html</loc></url>
@@ -581,6 +622,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/revenue.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/reverse-day-charge.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/reverse-split.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/risk-reward-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/roa.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/roe.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/roic.html</loc></url>
@@ -598,10 +640,12 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/shareholders-meeting.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/shares-outstanding.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/short-selling.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/short-squeeze.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/slippage.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/smart-contract.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/soft-landing.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/sovereign-risk.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/spin-off.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/spot-forward.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/spot-trading.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/spread-fx.html</loc></url>
@@ -634,10 +678,12 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/topix.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/total-assets.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/total-cost.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/total-payout-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/tracking-error.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/trade-balance.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/trading-session.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/trading-unit.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/trailing-stop.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/transaction-tax.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/trend-following.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/trend-line.html</loc></url>
@@ -654,14 +700,17 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/wallet.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/withholding-tax.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/won-weak-strong.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/yearly-high-low.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/yen-weak-strong.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/yield-curve.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/yield-to-maturity.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ja/term/yoy-growth.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/index.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/accrued-interest.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/acquisition-cost.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/active-fund.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/airdrop.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/algorithmic-trading.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/altcoin.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/alternative-exchange.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/annual-report.html</loc></url>
@@ -675,6 +724,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/base-rate-kr.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/benchmark.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/beta.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/bid-ask-spread.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/bitcoin.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/blockchain.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/bollinger-bands.html</loc></url>
@@ -725,7 +775,9 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/currency-risk.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/current-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/dead-cross.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/debt-equity-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/default.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/defensive-cyclical.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/defi.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/deflation.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/delisting.html</loc></url>
@@ -750,11 +802,14 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/duration.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/early-redemption.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/earnings-report.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/earnings-yield.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/earnings.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/ebitda.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/economic-bubble.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/effective-exchange-rate.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/ema.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/employment-data.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/engulfing.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/eps.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/equity-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/equity.html</loc></url>
@@ -769,6 +824,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/false-signal.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/fibonacci.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/fiscal-policy.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/fiscal-year.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/fixed-exchange-rate.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/fixed-variable-cost.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/floating-exchange-rate.html</loc></url>
@@ -793,6 +849,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/goodwill.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/government-bond.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/gross-profit.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/growth-value-stock.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/guidance-revision.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/halving.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/hard-fork.html</loc></url>
@@ -832,6 +889,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/kr-stock-code.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/kr-trading-session.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/krx-market-segment.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/large-small-cap.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/layer2.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/leading-index.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/leverage.html</loc></url>
@@ -842,6 +900,8 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/loss-carryforward.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/loss-cut.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/loss-offset.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/lump-sum.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/m-and-a.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/macd.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/margin-balance.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/margin-call.html</loc></url>
@@ -861,6 +921,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/municipal-bond.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/nav.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/net-assets.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/net-cash.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/net-income.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/nft.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/nikkei.html</loc></url>
@@ -875,8 +936,10 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/order-book.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/order-validity.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/ordinary-profit.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/parabolic-sar.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/payout-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/pbr.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/peg-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/pension-savings.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/per.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/pmi.html</loc></url>
@@ -891,12 +954,14 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/progressive-tax.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/prospectus.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/psr.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/psychological-line.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/pts-trading.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/pullback.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/purchasing-power.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/quantitative-easing.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/quarterly-report.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/range-market.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/rci.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/real-interest-rate.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/rebalancing.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/recession.html</loc></url>
@@ -909,6 +974,7 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/revenue.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/reverse-day-charge.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/reverse-split.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/risk-reward-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/roa.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/roe.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/roic.html</loc></url>
@@ -926,10 +992,12 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/shareholders-meeting.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/shares-outstanding.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/short-selling.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/short-squeeze.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/slippage.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/smart-contract.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/soft-landing.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/sovereign-risk.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/spin-off.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/spot-forward.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/spot-trading.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/spread-fx.html</loc></url>
@@ -962,10 +1030,12 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/topix.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/total-assets.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/total-cost.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/total-payout-ratio.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/tracking-error.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/trade-balance.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/trading-session.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/trading-unit.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/trailing-stop.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/transaction-tax.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/trend-following.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/trend-line.html</loc></url>
@@ -982,7 +1052,9 @@
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/wallet.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/withholding-tax.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/won-weak-strong.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/yearly-high-low.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/yen-weak-strong.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/yield-curve.html</loc></url>
   <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/yield-to-maturity.html</loc></url>
+  <url><loc>https://truenorthlab.github.io/stockfit-legal/glossary/ko/term/yoy-growth.html</loc></url>
 </urlset>
