@@ -1,6 +1,6 @@
 # StockFit — 法的文書 / 법적 문서 / Legal
 
-App Store が求める公開ページ（プライバシーポリシー・利用規約・オープンソースライセンス）を
+App Store が求める公開ページ（プライバシーポリシー・利用規約）を
 GitHub Pages で配信するための**ミラー**です。
 
 ⛔ **ここを直接編集しない。** 単一の出典はアプリ本体のリポジトリの `docs/` で、
@@ -9,5 +9,4 @@ GitHub Pages で配信するための**ミラー**です。
 
 - privacy.html — プライバシーポリシー（ja / ko / en）
 - terms.html — 利用規約
-- licenses.html — オープンソースライセンス
 - index.html — 目次
